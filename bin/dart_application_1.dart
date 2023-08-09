@@ -1,8 +1,9 @@
 
 
 void main (){
-for (int i = 0; i < 10000000; i++)
-  if (i > 9000000){
+for (int i = 0; i < 10; i++)
+  if (i > 8){
       print("hello dart $i");
  }
 }
+
