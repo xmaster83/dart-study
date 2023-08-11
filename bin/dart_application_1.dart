@@ -12,6 +12,5 @@ void main (){
 //  spiskStudy.addAll(spisokSport);
 //  spiskStudy.addAll(spisokFructs);
  print(spiskStudy);
-
-
+ 
 }
