@@ -12,5 +12,8 @@ void main (){
 //  spiskStudy.addAll(spisokSport);
 //  spiskStudy.addAll(spisokFructs);
  print(spiskStudy);
- 
+
+ final tes = {"ter",45};
+ print(tes)
+
 }
