@@ -1,0 +1,1 @@
+apt install sox telegraf ncdu glances nano net-tools git curl wget libpcap-dev libnewt-dev libssl-dev libncurses5-dev subversion libsqlite3-dev libjansson-dev libxml2-dev uuid-dev build-essential
